@@ -2,17 +2,23 @@
 **      AntonVoronezh
 ****************************/
 
-.maincontent .container {
-    display: flex;
+.maincontent {
     /* border: 1px solid #e20b0b; */
 }
 
-.aside {
-    width: 50%;
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     /* border: 1px solid #f441ca; */
 }
 
-.main {
-    width: 50%;
-    /* border: 1px solid #f441ca; */
+.get,
+.introducing,
+.about,
+.browse {
+    width: 100%;
+    padding: 40px;
+    border: 1px solid #000000;
 }
