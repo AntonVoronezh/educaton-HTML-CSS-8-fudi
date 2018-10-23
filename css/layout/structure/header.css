@@ -26,7 +26,7 @@
     margin-top: 30px;
     display: flex;
     justify-content: flex-start;
-    border: 1px solid #ffffff;
+    /* border: 1px solid #ffffff; */
 }
 
 .header-middle {
@@ -44,12 +44,12 @@
 }
 
 .logo {
-    border: 1px solid #ffffff;
+    /* border: 1px solid #ffffff; */
 }
 
 .login {
     margin-left: auto;
     display: flex;
     align-items: center;
-    border: 1px solid #ffffff;
+    /* border: 1px solid #ffffff; */
 }

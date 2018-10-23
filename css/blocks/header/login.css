@@ -5,7 +5,7 @@
 .login__list {
     display: flex;
     align-items: center;
-    border: 1px solid #ffffff;
+    /* border: 1px solid #ffffff; */
 }
 
 .login__item {
