@@ -3,19 +3,20 @@
 ****************************/
 
 .introducing {
-    padding-top: 40px;
-    /* padding-bottom: 40px; */
+    padding-top: 60px;
+    padding-bottom: 0;
     display: flex;
     justify-content: center;
     background-color: #f7f7f7;
+    /* border: 1px solid #000000; */
 }
 
 .introducing-img {
 width: 40%;
-border: 1px solid #000000;
+/* border: 1px solid #000000; */
 }
 
 .introducing-text {
 width: 40%;
-border: 1px solid #000000;
+/* border: 1px solid #000000; */
 }
