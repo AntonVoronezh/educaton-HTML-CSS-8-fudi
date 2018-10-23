@@ -37,9 +37,21 @@
     margin-bottom: 20px;
     font-size: 20px;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+.offer__title::after {
+    content: "";
+    margin: auto;
+    display: inline-block;
+    width: 88px;
+    height: 1px;
+    background-image: url('../../../../img/decor/1.png');
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .offer_text {
     color: #898989;
 }
-

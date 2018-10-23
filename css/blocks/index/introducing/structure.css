@@ -4,6 +4,18 @@
 
 .introducing {
     padding-top: 40px;
-    padding-bottom: 40px;
+    /* padding-bottom: 40px; */
+    display: flex;
+    justify-content: center;
     background-color: #f7f7f7;
+}
+
+.introducing-img {
+width: 40%;
+border: 1px solid #000000;
+}
+
+.introducing-text {
+width: 40%;
+border: 1px solid #000000;
 }
