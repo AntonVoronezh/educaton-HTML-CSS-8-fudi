@@ -11,10 +11,11 @@
     border-top: 1px solid #8b8b8b;
 }
 
-.footer .container {
-    border: 1px solid #000000;
+.footer__middle {
+    display: flex;
+    justify-content: flex-start;
 }
 
-.footer__middle {
-
+.footer__middle-design {
+    margin-left: auto;
 }
