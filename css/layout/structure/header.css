@@ -21,8 +21,11 @@
 
 .header-top {
     width: 80%;
+    min-height: 5%;
     margin: 0 auto;
     margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
     border: 1px solid #ffffff;
 }
 
@@ -35,5 +38,14 @@
     min-height: 40%;
     margin: 0 auto;
 
+    border: 1px solid #ffffff;
+}
+
+.logo {
+    border: 1px solid #ffffff;
+}
+
+.login {
+    margin-left: auto;
     border: 1px solid #ffffff;
 }
